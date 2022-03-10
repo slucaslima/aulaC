@@ -19,7 +19,7 @@ namespace Exercicio6
                 Console.WriteLine("Informe o seu nome:");
                 string nome = Console.ReadLine().ToLower();
 
-                for (int i = 0; i <= nome.Length; i++)
+                for (int i = 0; i < nome.Length; i++)
                 {
                     if (_a.Equals(nome[i])
                         || _e.Equals(nome[i])
