@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Classes", "01 - Classe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facec.Classes", "..\Facec.Classes\Facec.Classes.csproj", "{E249D537-72DB-4490-AA13-823F15705F69}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Extensões", "02 - Extensões", "{3A04F983-D964-4B8B-B94F-9DFBB8E9B1E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facec.Extensoes", "..\Facec.Extensoes\Facec.Extensoes.csproj", "{D383C921-8A69-41E9-836E-F4E3B2B2AB33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{E249D537-72DB-4490-AA13-823F15705F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E249D537-72DB-4490-AA13-823F15705F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E249D537-72DB-4490-AA13-823F15705F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D383C921-8A69-41E9-836E-F4E3B2B2AB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D383C921-8A69-41E9-836E-F4E3B2B2AB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D383C921-8A69-41E9-836E-F4E3B2B2AB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D383C921-8A69-41E9-836E-F4E3B2B2AB33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E249D537-72DB-4490-AA13-823F15705F69} = {383831D0-9C6E-461D-9F4F-815D72ED416B}
+		{D383C921-8A69-41E9-836E-F4E3B2B2AB33} = {3A04F983-D964-4B8B-B94F-9DFBB8E9B1E0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A8DF3A34-B224-467C-B78D-4BBB6D8958C0}

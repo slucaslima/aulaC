@@ -6,27 +6,21 @@ using System.Threading.Tasks;
 
 namespace Facec.Classes
 {
-    public sealed class Cooper : AbstractCarro
+    public class Fusca : AbstractCarro
     {
         public override string ObterMarca()
         {
-            return "Mini";
+            return "Volkswagen";
         }
 
         public override string ObterModelo()
         {
-            return "Cooper";
+            return "Fusca";
         }
 
         public override int ObterVelocidade()
         {
-            return 180;
-        }
-
-        public override string RelatorioDeManutencao()
-        {
-            return $"Este método foi sobrescrito \n " + 
-                base.RelatorioDeManutencao();
+            return 140;
         }
     }
 }
