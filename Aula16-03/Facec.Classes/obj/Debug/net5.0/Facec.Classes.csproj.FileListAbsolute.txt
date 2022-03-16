@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\bin\Debug\net5.0\Facec.Classes.exe
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\bin\Debug\net5.0\Facec.Classes.deps.json
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\bin\Debug\net5.0\Facec.Classes.runtimeconfig.json
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\bin\Debug\net5.0\Facec.Classes.runtimeconfig.dev.json
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\bin\Debug\net5.0\Facec.Classes.dll
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\bin\Debug\net5.0\ref\Facec.Classes.dll
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\bin\Debug\net5.0\Facec.Classes.pdb
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\obj\Debug\net5.0\Facec.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\obj\Debug\net5.0\Facec.Classes.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\obj\Debug\net5.0\Facec.Classes.AssemblyInfo.cs
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\obj\Debug\net5.0\Facec.Classes.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\obj\Debug\net5.0\Facec.Classes.dll
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\obj\Debug\net5.0\ref\Facec.Classes.dll
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\obj\Debug\net5.0\Facec.Classes.pdb
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\obj\Debug\net5.0\Facec.Classes.genruntimeconfig.cache
