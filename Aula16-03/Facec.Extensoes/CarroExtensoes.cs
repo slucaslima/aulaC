@@ -11,7 +11,8 @@ namespace Facec.Extensoes
     {
         public static string ObterVelocidadeFinal(this AbstractCarro carro)
         {
-            return string.Empty;
+            return $"{carro.ObterMarca()} - {carro.ObterModelo()}: " +
+                $"{carro.ObterVelocidade()} Km/h \n"; 
         }
     }
 }

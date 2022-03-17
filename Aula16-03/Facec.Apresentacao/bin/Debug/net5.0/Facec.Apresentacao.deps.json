@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Facec.Apresentacao/1.0.0": {
+        "dependencies": {
+          "Facec.Classes": "1.0.0",
+          "Facec.Extensoes": "1.0.0"
+        },
+        "runtime": {
+          "Facec.Apresentacao.dll": {}
+        }
+      },
+      "Facec.Classes/1.0.0": {
+        "runtime": {
+          "Facec.Classes.dll": {}
+        }
+      },
+      "Facec.Extensoes/1.0.0": {
+        "dependencies": {
+          "Facec.Classes": "1.0.0"
+        },
+        "runtime": {
+          "Facec.Extensoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Facec.Apresentacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Facec.Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Facec.Extensoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

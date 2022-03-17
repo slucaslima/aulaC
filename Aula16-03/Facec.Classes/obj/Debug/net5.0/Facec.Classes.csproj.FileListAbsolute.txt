@@ -13,3 +13,4 @@ C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\obj\Debug\net5.0\Fa
 C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\obj\Debug\net5.0\ref\Facec.Classes.dll
 C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\obj\Debug\net5.0\Facec.Classes.pdb
 C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\obj\Debug\net5.0\Facec.Classes.genruntimeconfig.cache
+C:\Users\facec.lab04\Documents\aulaC\Aula16-03\Facec.Classes\obj\Debug\net5.0\Facec.Classes.csproj.AssemblyReference.cache
