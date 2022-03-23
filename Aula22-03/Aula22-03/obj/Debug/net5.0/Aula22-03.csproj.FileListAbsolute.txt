@@ -1,0 +1,16 @@
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\bin\Debug\net5.0\Aula22-03.exe
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\bin\Debug\net5.0\Aula22-03.deps.json
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\bin\Debug\net5.0\Aula22-03.runtimeconfig.json
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\bin\Debug\net5.0\Aula22-03.runtimeconfig.dev.json
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\bin\Debug\net5.0\Aula22-03.dll
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\bin\Debug\net5.0\ref\Aula22-03.dll
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\bin\Debug\net5.0\Aula22-03.pdb
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\obj\Debug\net5.0\Aula22-03.csproj.AssemblyReference.cache
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\obj\Debug\net5.0\Aula22-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\obj\Debug\net5.0\Aula22-03.AssemblyInfoInputs.cache
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\obj\Debug\net5.0\Aula22-03.AssemblyInfo.cs
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\obj\Debug\net5.0\Aula22-03.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\obj\Debug\net5.0\Aula22-03.dll
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\obj\Debug\net5.0\ref\Aula22-03.dll
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\obj\Debug\net5.0\Aula22-03.pdb
+C:\Users\facec.lab01\Documents\aulaC\Aula22-03\Aula22-03\obj\Debug\net5.0\Aula22-03.genruntimeconfig.cache
